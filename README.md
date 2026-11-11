@@ -28,7 +28,6 @@ Pricing property fairly is hard when information is incomplete. In growing citie
 |---|---|
 | XGBoost, 80/20 hold-out (notebook) | **0.1319** |
 
-<!-- TODO: run `python -m house_prices.train`, paste the 5-fold CV table here, add your Kaggle score if you submitted, then delete this line -->
 
 An RMSE of 0.13 on the log scale means predictions are typically within about **13–14%** of the real price.
 
