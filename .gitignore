@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+data/
+models/
+outputs/
+*.zip
+kaggle.json
+.env
+.DS_Store
